@@ -1,0 +1,24 @@
+{
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.deezer.com/*",
+        "https://www.deezer.com/*"
+      ],
+      "css": [
+        "contentstyle.css"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "description": "Expand playlist dialog of Deezer ",
+  "incognito": "split",
+  "manifest_version": 2,
+  "name": "DeezerPlaylistDialogExpander",
+  "permissions": [
+    "activeTab"
+  ],
+  "short_name": "DeezerPlaylistExpander",
+  "version": "0.0"
+}
