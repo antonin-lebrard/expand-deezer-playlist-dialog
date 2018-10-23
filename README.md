@@ -9,6 +9,5 @@ Before | After
 
 ##### Very Small PS:
 
-I fucked when I named my file, so after.gif is actually before my extension, and before.gif after.
-
-I will leave this in this state to remind me that I'm a moron
+###### I fucked when I named my file, so after.gif is actually before my extension, and before.gif after.
+###### I will leave this in this state to remind me that I'm a moron
